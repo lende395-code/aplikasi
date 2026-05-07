@@ -15,7 +15,7 @@ Aplikasi login sederhana dengan 3 halaman: Login, Dashboard, dan Lupa Password. 
 
 ### 3. Cara Menjalankan Aplikasi
 1. Pastikan Flutter SDK sudah terinstall
-2. Clone repository ini: `git clone [link_repo_lu]`
+2. Clone repository ini: `git clone [https://github.com/lenda395-code/aplikasi.git]`
 3. Masuk ke folder project: `cd aplikasi`
 4. Install dependencies: `flutter pub get`
 5. Jalankan aplikasi: `flutter run`
